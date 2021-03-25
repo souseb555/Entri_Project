@@ -1,0 +1,15 @@
+
+   {
+    "python.pythonPath": "C:\\Users\\anitt\\anaconda3\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "[python]": {
+
+    },
+    "python.linting.pylintArgs": [
+        "--load-plugins", "pylint_django",
+        "--disable=django-not-configured",
+        "--django-settings-module=<Interview_Traffic>.settings"
+    ],
+    "git.ignoreLimitWarning": true,
+}
