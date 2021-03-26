@@ -30,7 +30,7 @@ python manage.py runserver
 http://127.0.0.1:8000/
 ```
 
-2) Created a Superuser
+2)Created a Superuser
  
 ```python
 http://127.0.0.1:8000/admin
