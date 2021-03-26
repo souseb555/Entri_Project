@@ -44,7 +44,7 @@ http://127.0.0.1:8000/users
 id and interviewer id as input. Here candidate id is userId and interviewer id is interId.
 
 ```python
-http://127.0.0.1:8000/availableslots?userId=<>interId=<>
+http://127.0.0.1:8000/availableslots?userId=<>&interId=<>
 ```
 ## Testing
 
