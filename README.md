@@ -29,11 +29,18 @@ python manage.py runserver
 ```python
 http://127.0.0.1:8000/
 ```
-2)API for candidates/interviewers to register their available time slots.
+
+2) Created a Superuser
+ 
+```python
+http://127.0.0.1:8000/admin
+```
+
+3)API for candidates/interviewers to register their available time slots.
 ```python
 http://127.0.0.1:8000/users
 ```
-3)API to return available time slots as a list which will take candidate
+4)API to return available time slots as a list which will take candidate
 id and interviewer id as input. Here candidate id is userId and interviewer id is interId.
 
 ```python
