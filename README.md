@@ -16,6 +16,11 @@ You can install all the required dependencies by running
 ```bash
 pip install -r requirements.txt
 ```
+You can start the web server via 
+
+```bash
+python manage.py runserver
+```
 
 ## Structure 
 
@@ -39,4 +44,4 @@ http://127.0.0.1:8000/availableslots?userId=<>interId=<>
 APIs has been tested using Postman and was working fine. Results attached.
 
 
-### Happy Coding :)
+
