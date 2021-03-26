@@ -41,7 +41,7 @@ http://127.0.0.1:8000/admin
 http://127.0.0.1:8000/users
 ```
 4)API to return available time slots as a list which will take candidate
-id and interviewer id as input. Here candidate id is userId and interviewer id is interId.
+id and interviewer id as input. Here candidate id is userId and interviewer id is interId.(Remove the angle brackets after entering the respective id's)
 
 ```python
 http://127.0.0.1:8000/availableslots?userId=<>&interId=<>
