@@ -41,7 +41,7 @@ http://127.0.0.1:8000/availableslots?userId=<>interId=<>
 ```
 ## Testing
 
-APIs has been tested using Postman and was working fine. Results attached.
+APIs has been tested using Postman and was working fine.
 
 
 
